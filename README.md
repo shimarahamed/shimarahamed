@@ -1,16 +1,17 @@
-## Hi there 👋
+## Shimar Ahamed
+**Senior DevOps Engineer | Azure | AKS | Terraform | CI/CD | Data Pipelines**
+Dubai, UAE
 
-<!--
-**shimarahamed/shimarahamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+6+ years building enterprise cloud infrastructure for government and
+utility-sector clients (Core42, EWEC, bp). Specializing in:
 
-Here are some ideas to get you started:
+- CI/CD pipelines (Azure DevOps, GitHub Actions)
+- Infrastructure as Code (Terraform, Bicep)
+- AKS container orchestration
+- Hybrid identity & Zero Trust (Entra ID, RBAC, Conditional Access)
+- Data pipelines (ADF, Databricks, Synapse, Power BI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently open to Senior DevOps Engineer and Cloud Engineer roles in the UAE.
+
+📧 shimarahamed2012@gmail.com
+💼 linkedin.com/in/shimarahamed
