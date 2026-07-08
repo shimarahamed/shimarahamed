@@ -1,5 +1,6 @@
 ## Shimar Ahamed
-**Senior DevOps Engineer | Azure | AKS | Terraform | CI/CD | Data Pipelines**
+**Cloud Engineer | DevOps Engineer | Azure | AKS | Terraform | CI/CD | Data Pipelines**
+
 Dubai, UAE
 
 6+ years building enterprise cloud infrastructure for government and
