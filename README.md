@@ -1,5 +1,5 @@
 ## Shimar Ahamed
-**Cloud Engineer | DevOps Engineer | Azure | AKS | Terraform | CI/CD | Data Pipelines**
+**Cloud Engineer | DevOps and DataOps Engineer | Azure | AKS | Terraform | CI/CD | Data Pipelines | DataBricks**
 
 Dubai, UAE
 
@@ -12,7 +12,7 @@ utility-sector clients (Core42, EWEC, bp). Specializing in:
 - Hybrid identity & Zero Trust (Entra ID, RBAC, Conditional Access)
 - Data pipelines (ADF, Databricks, Synapse, Power BI)
 
-Currently open to Senior DevOps Engineer and Cloud Engineer roles in the UAE.
+Currently open to Senior DevOps and DataOps Engineer and Cloud Engineer roles in the UAE and around the world.
 
 📧 shimarahamed2012@gmail.com
 💼 linkedin.com/in/shimarahamed
